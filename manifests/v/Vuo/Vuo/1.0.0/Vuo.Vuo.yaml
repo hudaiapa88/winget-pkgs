@@ -1,0 +1,7 @@
+# Version manifest (winget-pkgs: manifests/v/Vuo/Vuo/1.0.0/).
+# Fill in InstallerSha256 for each release (doc/release_windows.md).
+PackageIdentifier: Vuo.Vuo
+PackageVersion: 1.0.0
+DefaultLocale: tr-TR
+ManifestType: version
+ManifestVersion: 1.6.0
